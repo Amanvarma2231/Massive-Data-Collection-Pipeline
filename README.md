@@ -6,7 +6,7 @@
 [![Architecture: Production Grade](https://img.shields.io/badge/Architecture-Production--Grade-brightgreen.svg)](#architecture--production-design)
 
 > **GraphOne / FrontierAtlas Engineering Submission**  
-> **Candidate**: Palak Verma
+> **Candidate**: Palak Verma.
 > **Repository**: [Massive-Data-Collection-Pipeline](https://github.com/Amanvarma2231/Massive-Data-Collection-Pipeline.git)  
 > **Submission Portal**: [Google Forms Submission Link](https://forms.gle/8bnrg78Ki4E25RAk8)  
 > **Architecture Document**: [`architecture.pdf`](./architecture.pdf) & [`architecture.md`](./architecture.md)
