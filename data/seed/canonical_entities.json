@@ -1,0 +1,787 @@
+{
+  "OpenAI": {
+    "canonical_name": "OpenAI",
+    "aliases": [
+      "OpenAI",
+      "OpenAI, Inc.",
+      "Open AI",
+      "OpenAI LLC",
+      "OpenAI LP",
+      "OpenAI OpCo LLC"
+    ],
+    "domain": "openai.com",
+    "category": "Foundation Models / Generative AI",
+    "products": [
+      "ChatGPT",
+      "GPT-4",
+      "GPT-4o",
+      "DALL-E 3",
+      "Sora",
+      "Whisper",
+      "Codex"
+    ]
+  },
+  "Anthropic": {
+    "canonical_name": "Anthropic",
+    "aliases": [
+      "Anthropic",
+      "Anthropic PBC",
+      "Anthropic AI",
+      "Anthropic, Inc."
+    ],
+    "domain": "anthropic.com",
+    "category": "Foundation Models / AI Safety",
+    "products": [
+      "Claude",
+      "Claude 3.5 Sonnet",
+      "Claude 3 Opus",
+      "Claude 3 Haiku"
+    ]
+  },
+  "Mistral AI": {
+    "canonical_name": "Mistral AI",
+    "aliases": [
+      "Mistral AI",
+      "Mistral",
+      "Mistral AI SAS",
+      "MistralAI"
+    ],
+    "domain": "mistral.ai",
+    "category": "Open Source LLMs",
+    "products": [
+      "Mistral Large",
+      "Mixtral 8x7B",
+      "Mixtral 8x22B",
+      "Codestral",
+      "Mistral Nemo",
+      "Le Chat"
+    ]
+  },
+  "Cohere": {
+    "canonical_name": "Cohere",
+    "aliases": [
+      "Cohere",
+      "Cohere Inc.",
+      "Cohere AI"
+    ],
+    "domain": "cohere.com",
+    "category": "Enterprise LLMs",
+    "products": [
+      "Command R+",
+      "Command R",
+      "Embed v3",
+      "Rerank"
+    ]
+  },
+  "Scale AI": {
+    "canonical_name": "Scale AI",
+    "aliases": [
+      "Scale AI",
+      "Scale",
+      "ScaleAI",
+      "Scale Labs, Inc."
+    ],
+    "domain": "scale.com",
+    "category": "Data Annotation / AI Infrastructure",
+    "products": [
+      "Scale Data Engine",
+      "Scale GenAI Platform",
+      "Scale Donovan"
+    ]
+  },
+  "Hugging Face": {
+    "canonical_name": "Hugging Face",
+    "aliases": [
+      "Hugging Face",
+      "HuggingFace",
+      "Hugging Face Inc.",
+      "HF"
+    ],
+    "domain": "huggingface.co",
+    "category": "Open Source AI Hub / Ecosystem",
+    "products": [
+      "Hugging Face Hub",
+      "Transformers",
+      "Diffusers",
+      "Inference Endpoints",
+      "Spaces"
+    ]
+  },
+  "Perplexity AI": {
+    "canonical_name": "Perplexity AI",
+    "aliases": [
+      "Perplexity AI",
+      "Perplexity",
+      "Perplexity, Inc."
+    ],
+    "domain": "perplexity.ai",
+    "category": "AI Search / Information Retrieval",
+    "products": [
+      "Perplexity Search",
+      "Perplexity Pro",
+      "Sonar API"
+    ]
+  },
+  "Midjourney": {
+    "canonical_name": "Midjourney",
+    "aliases": [
+      "Midjourney",
+      "Midjourney Inc.",
+      "Midjourney AI"
+    ],
+    "domain": "midjourney.com",
+    "category": "AI Image Generation",
+    "products": [
+      "Midjourney v6",
+      "Midjourney Web"
+    ]
+  },
+  "Stability AI": {
+    "canonical_name": "Stability AI",
+    "aliases": [
+      "Stability AI",
+      "Stability AI Ltd.",
+      "Stability.ai"
+    ],
+    "domain": "stability.ai",
+    "category": "Open Generative Media",
+    "products": [
+      "Stable Diffusion 3",
+      "Stable Audio",
+      "Stable Video Diffusion"
+    ]
+  },
+  "ElevenLabs": {
+    "canonical_name": "ElevenLabs",
+    "aliases": [
+      "ElevenLabs",
+      "Eleven Labs",
+      "ElevenLabs Inc."
+    ],
+    "domain": "elevenlabs.io",
+    "category": "Voice AI / Audio Synthesis",
+    "products": [
+      "Eleven Multilingual v2",
+      "Voice Isolator",
+      "Reader App"
+    ]
+  },
+  "Character.AI": {
+    "canonical_name": "Character.AI",
+    "aliases": [
+      "Character.AI",
+      "Character AI",
+      "Character Technologies, Inc."
+    ],
+    "domain": "character.ai",
+    "category": "Conversational AI / Entertainment",
+    "products": [
+      "Character.ai App",
+      "Character Voices"
+    ]
+  },
+  "Databricks": {
+    "canonical_name": "Databricks",
+    "aliases": [
+      "Databricks",
+      "Databricks, Inc.",
+      "Databricks AI"
+    ],
+    "domain": "databricks.com",
+    "category": "Data Lakehouse / Enterprise AI",
+    "products": [
+      "DBRX",
+      "Mosaic AI",
+      "Databricks Lakehouse",
+      "MLflow"
+    ]
+  },
+  "Pinecone": {
+    "canonical_name": "Pinecone",
+    "aliases": [
+      "Pinecone",
+      "Pinecone Systems, Inc.",
+      "Pinecone Vector DB"
+    ],
+    "domain": "pinecone.io",
+    "category": "Vector Database",
+    "products": [
+      "Pinecone Serverless",
+      "Pinecone Enterprise"
+    ]
+  },
+  "Weaviate": {
+    "canonical_name": "Weaviate",
+    "aliases": [
+      "Weaviate",
+      "Weaviate B.V.",
+      "Weaviate Cloud"
+    ],
+    "domain": "weaviate.io",
+    "category": "Vector Database / Graph AI",
+    "products": [
+      "Weaviate Cloud Services",
+      "Weaviate Hybrid Search"
+    ]
+  },
+  "Qdrant": {
+    "canonical_name": "Qdrant",
+    "aliases": [
+      "Qdrant",
+      "Qdrant Solutions GmbH"
+    ],
+    "domain": "qdrant.tech",
+    "category": "Vector Database / Search Engine",
+    "products": [
+      "Qdrant Cloud",
+      "Qdrant Hybrid Search"
+    ]
+  },
+  "Chroma": {
+    "canonical_name": "Chroma",
+    "aliases": [
+      "Chroma",
+      "Chroma DB",
+      "ChromaDB",
+      "Chroma Inc."
+    ],
+    "domain": "trychroma.com",
+    "category": "Open Source Vector Database",
+    "products": [
+      "Chroma Database",
+      "Chroma Cloud"
+    ]
+  },
+  "LangChain": {
+    "canonical_name": "LangChain",
+    "aliases": [
+      "LangChain",
+      "LangChain Inc.",
+      "Langchain"
+    ],
+    "domain": "langchain.com",
+    "category": "AI Agent & LLM Framework",
+    "products": [
+      "LangChain",
+      "LangSmith",
+      "LangGraph"
+    ]
+  },
+  "LlamaIndex": {
+    "canonical_name": "LlamaIndex",
+    "aliases": [
+      "LlamaIndex",
+      "Llama Index",
+      "LlamaIndex Inc.",
+      "GPT Index"
+    ],
+    "domain": "llamaindex.ai",
+    "category": "Data Framework for LLMs / RAG",
+    "products": [
+      "LlamaIndex Framework",
+      "LlamaCloud",
+      "LlamaParse"
+    ]
+  },
+  "Groq": {
+    "canonical_name": "Groq",
+    "aliases": [
+      "Groq",
+      "Groq Inc.",
+      "GroqCloud"
+    ],
+    "domain": "groq.com",
+    "category": "AI Inference Hardware & Cloud",
+    "products": [
+      "LPU Inference Engine",
+      "GroqCloud API"
+    ]
+  },
+  "Together AI": {
+    "canonical_name": "Together AI",
+    "aliases": [
+      "Together AI",
+      "Together.ai",
+      "Together Compute, Inc."
+    ],
+    "domain": "together.ai",
+    "category": "Decentralized Cloud / Open Model Hosting",
+    "products": [
+      "Together Inference Engine",
+      "Together GPU Clusters"
+    ]
+  },
+  "Anyscale": {
+    "canonical_name": "Anyscale",
+    "aliases": [
+      "Anyscale",
+      "Anyscale, Inc."
+    ],
+    "domain": "anyscale.com",
+    "category": "Distributed Computing / Ray Platform",
+    "products": [
+      "Ray Platform",
+      "Anyscale Endpoints"
+    ]
+  },
+  "Modal Labs": {
+    "canonical_name": "Modal Labs",
+    "aliases": [
+      "Modal",
+      "Modal Labs",
+      "Modal Labs Inc."
+    ],
+    "domain": "modal.com",
+    "category": "Serverless Cloud for AI",
+    "products": [
+      "Modal Serverless Platform"
+    ]
+  },
+  "RunPod": {
+    "canonical_name": "RunPod",
+    "aliases": [
+      "RunPod",
+      "RunPod Inc.",
+      "Runpod.io"
+    ],
+    "domain": "runpod.io",
+    "category": "GPU Cloud / Serverless AI Hosting",
+    "products": [
+      "RunPod Serverless",
+      "RunPod Pods"
+    ]
+  },
+  "Weights & Biases": {
+    "canonical_name": "Weights & Biases",
+    "aliases": [
+      "Weights & Biases",
+      "W&B",
+      "Weights and Biases",
+      "Weights and Biases Inc."
+    ],
+    "domain": "wandb.ai",
+    "category": "MLOps / Experiment Tracking",
+    "products": [
+      "W&B Models",
+      "W&B Weave",
+      "W&B Artifacts"
+    ]
+  },
+  "Writer": {
+    "canonical_name": "Writer",
+    "aliases": [
+      "Writer",
+      "Writer AI",
+      "Writer, Inc."
+    ],
+    "domain": "writer.com",
+    "category": "Generative AI for Enterprise",
+    "products": [
+      "Writer Palmyra Models",
+      "Writer Knowledge Graph"
+    ]
+  },
+  "Glean": {
+    "canonical_name": "Glean",
+    "aliases": [
+      "Glean",
+      "Glean Technologies, Inc."
+    ],
+    "domain": "glean.com",
+    "category": "Enterprise AI Search",
+    "products": [
+      "Glean Search",
+      "Glean Assistant"
+    ]
+  },
+  "Synthesia": {
+    "canonical_name": "Synthesia",
+    "aliases": [
+      "Synthesia",
+      "Synthesia Ltd.",
+      "Synthesia AI"
+    ],
+    "domain": "synthesia.io",
+    "category": "AI Video Generation",
+    "products": [
+      "Synthesia STUDIO",
+      "AI Avatars"
+    ]
+  },
+  "Runway": {
+    "canonical_name": "Runway",
+    "aliases": [
+      "Runway",
+      "RunwayML",
+      "Runway AI, Inc."
+    ],
+    "domain": "runwayml.com",
+    "category": "Creative Video AI",
+    "products": [
+      "Gen-3 Alpha",
+      "Gen-2",
+      "Runway Motion Brush"
+    ]
+  },
+  "Pika": {
+    "canonical_name": "Pika",
+    "aliases": [
+      "Pika",
+      "Pika Labs",
+      "Pika Labs, Inc.",
+      "Pika AI"
+    ],
+    "domain": "pika.art",
+    "category": "AI Video Generation",
+    "products": [
+      "Pika 1.0",
+      "Pika Effects"
+    ]
+  },
+  "HeyGen": {
+    "canonical_name": "HeyGen",
+    "aliases": [
+      "HeyGen",
+      "HeyGen AI",
+      "Surreal, Inc."
+    ],
+    "domain": "heygen.com",
+    "category": "AI Video Localization & Avatars",
+    "products": [
+      "HeyGen Video Generator",
+      "Streaming Avatars"
+    ]
+  },
+  "Cursor": {
+    "canonical_name": "Cursor",
+    "aliases": [
+      "Cursor",
+      "Cursor AI",
+      "Anysphere, Inc.",
+      "Anysphere"
+    ],
+    "domain": "cursor.com",
+    "category": "AI Code Editor / IDE",
+    "products": [
+      "Cursor Editor",
+      "Cursor Composer"
+    ]
+  },
+  "Replit": {
+    "canonical_name": "Replit",
+    "aliases": [
+      "Replit",
+      "Replit, Inc.",
+      "Repl.it"
+    ],
+    "domain": "replit.com",
+    "category": "AI Cloud IDE & Agent Builder",
+    "products": [
+      "Replit Agent",
+      "Replit Ghostwriter"
+    ]
+  },
+  "Poolside": {
+    "canonical_name": "Poolside",
+    "aliases": [
+      "Poolside",
+      "Poolside AI",
+      "Poolside AI SAS"
+    ],
+    "domain": "poolside.ai",
+    "category": "AI for Software Engineering",
+    "products": [
+      "Poolside Code Model"
+    ]
+  },
+  "Cognition AI": {
+    "canonical_name": "Cognition AI",
+    "aliases": [
+      "Cognition",
+      "Cognition AI",
+      "Cognition Labs, Inc."
+    ],
+    "domain": "cognition.ai",
+    "category": "Autonomous AI Software Engineers",
+    "products": [
+      "Devin"
+    ]
+  },
+  "Magic AI": {
+    "canonical_name": "Magic AI",
+    "aliases": [
+      "Magic",
+      "Magic AI",
+      "Magic AI, Inc."
+    ],
+    "domain": "magic.dev",
+    "category": "Ultra-Long Context Code Models",
+    "products": [
+      "LTM-2-mini"
+    ]
+  },
+  "Tabnine": {
+    "canonical_name": "Tabnine",
+    "aliases": [
+      "Tabnine",
+      "Tabnine Inc.",
+      "Codota"
+    ],
+    "domain": "tabnine.com",
+    "category": "AI Code Assistant",
+    "products": [
+      "Tabnine Enterprise",
+      "Tabnine Chat"
+    ]
+  },
+  "Harvey": {
+    "canonical_name": "Harvey",
+    "aliases": [
+      "Harvey",
+      "Harvey AI",
+      "Counsel AI Corp."
+    ],
+    "domain": "harvey.ai",
+    "category": "Legal AI Platform",
+    "products": [
+      "Harvey Legal Assistant"
+    ]
+  },
+  "Abridge": {
+    "canonical_name": "Abridge",
+    "aliases": [
+      "Abridge",
+      "Abridge AI, Inc."
+    ],
+    "domain": "abridge.com",
+    "category": "Clinical Healthcare AI",
+    "products": [
+      "Abridge Clinical Notes"
+    ]
+  },
+  "Hippocratic AI": {
+    "canonical_name": "Hippocratic AI",
+    "aliases": [
+      "Hippocratic AI",
+      "Hippocratic AI Inc."
+    ],
+    "domain": "hippocratic.ai",
+    "category": "Safety-First Healthcare LLMs",
+    "products": [
+      "Generative AI Healthcare Agents"
+    ]
+  },
+  "Covariant": {
+    "canonical_name": "Covariant",
+    "aliases": [
+      "Covariant",
+      "Covariant.ai",
+      "Covariant, Inc."
+    ],
+    "domain": "covariant.ai",
+    "category": "Robotics AI Foundation Models",
+    "products": [
+      "RFM-1",
+      "Covariant Brain"
+    ]
+  },
+  "Figure": {
+    "canonical_name": "Figure",
+    "aliases": [
+      "Figure",
+      "Figure AI",
+      "Figure AI, Inc."
+    ],
+    "domain": "figure.ai",
+    "category": "Autonomous Humanoid Robots",
+    "products": [
+      "Figure 02",
+      "Figure 01"
+    ]
+  },
+  "1X Technologies": {
+    "canonical_name": "1X Technologies",
+    "aliases": [
+      "1X",
+      "1X Technologies",
+      "Halodi Robotics"
+    ],
+    "domain": "1x.tech",
+    "category": "Android Robotics & AI",
+    "products": [
+      "NEO",
+      "EVE"
+    ]
+  },
+  "Physical Intelligence": {
+    "canonical_name": "Physical Intelligence",
+    "aliases": [
+      "Physical Intelligence",
+      "pi",
+      "Pi.ai Robotics"
+    ],
+    "domain": "physicalintelligence.company",
+    "category": "Universal Robot Brain",
+    "products": [
+      "pi0 Foundation Model"
+    ]
+  },
+  "Suno": {
+    "canonical_name": "Suno",
+    "aliases": [
+      "Suno",
+      "Suno AI",
+      "Suno, Inc."
+    ],
+    "domain": "suno.com",
+    "category": "Generative Audio / Music AI",
+    "products": [
+      "Suno v3.5",
+      "Suno Chirp"
+    ]
+  },
+  "Udio": {
+    "canonical_name": "Udio",
+    "aliases": [
+      "Udio",
+      "Udio AI",
+      "Uncharted Labs, Inc."
+    ],
+    "domain": "udio.com",
+    "category": "Generative Music / Audio AI",
+    "products": [
+      "Udio v1.5"
+    ]
+  },
+  "DeepSeek": {
+    "canonical_name": "DeepSeek",
+    "aliases": [
+      "DeepSeek",
+      "DeepSeek AI",
+      "High-Flyer DeepSeek"
+    ],
+    "domain": "deepseek.com",
+    "category": "Open Foundation Models",
+    "products": [
+      "DeepSeek-V3",
+      "DeepSeek-R1",
+      "DeepSeek-Coder",
+      "DeepSeek-Math"
+    ]
+  },
+  "01.AI": {
+    "canonical_name": "01.AI",
+    "aliases": [
+      "01.AI",
+      "01.AI Co., Ltd.",
+      "Zero One AI"
+    ],
+    "domain": "01.ai",
+    "category": "Open Multimodal Models",
+    "products": [
+      "Yi-Large",
+      "Yi-1.5",
+      "Yi-Vision"
+    ]
+  },
+  "Zhipu AI": {
+    "canonical_name": "Zhipu AI",
+    "aliases": [
+      "Zhipu AI",
+      "Zhipu",
+      "GLM"
+    ],
+    "domain": "zhipuai.cn",
+    "category": "Foundation Models & Agents",
+    "products": [
+      "GLM-4",
+      "GLM-4V",
+      "ChatGLM"
+    ]
+  },
+  "Sakana AI": {
+    "canonical_name": "Sakana AI",
+    "aliases": [
+      "Sakana AI",
+      "Sakana",
+      "Sakana AI K.K."
+    ],
+    "domain": "sakana.ai",
+    "category": "Nature-Inspired Evolutionary AI",
+    "products": [
+      "The AI Scientist",
+      "EvoMerge"
+    ]
+  },
+  "Black Forest Labs": {
+    "canonical_name": "Black Forest Labs",
+    "aliases": [
+      "Black Forest Labs",
+      "Black Forest Labs Inc.",
+      "BFL"
+    ],
+    "domain": "blackforestlabs.ai",
+    "category": "Open Image Generation",
+    "products": [
+      "FLUX.1 [schnell]",
+      "FLUX.1 [dev]",
+      "FLUX.1 [pro]"
+    ]
+  },
+  "Deci AI": {
+    "canonical_name": "Deci AI",
+    "aliases": [
+      "Deci AI",
+      "Deci",
+      "Deci.ai"
+    ],
+    "domain": "deci.ai",
+    "category": "Deep Learning Acceleration & Models",
+    "products": [
+      "DeciLM",
+      "DeciDiffusion",
+      "Infery"
+    ]
+  },
+  "Krea AI": {
+    "canonical_name": "Krea AI",
+    "aliases": [
+      "Krea",
+      "Krea AI",
+      "Krea.ai"
+    ],
+    "domain": "krea.ai",
+    "category": "Real-Time Generative Canvas",
+    "products": [
+      "Krea Realtime Canvas",
+      "Krea Enhancer"
+    ]
+  },
+  "Phind": {
+    "canonical_name": "Phind",
+    "aliases": [
+      "Phind",
+      "Phind AI",
+      "Phind.com"
+    ],
+    "domain": "phind.com",
+    "category": "Search Engine for Developers",
+    "products": [
+      "Phind-70B",
+      "Phind Search"
+    ]
+  },
+  "Kindo": {
+    "canonical_name": "Kindo",
+    "aliases": [
+      "Kindo",
+      "Kindo AI",
+      "Kindo.ai"
+    ],
+    "domain": "kindo.ai",
+    "category": "Enterprise AI Security Hub",
+    "products": [
+      "Kindo Enterprise Orchestrator"
+    ]
+  }
+}

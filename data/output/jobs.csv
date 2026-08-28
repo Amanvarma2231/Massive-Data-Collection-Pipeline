@@ -1,0 +1,17 @@
+schemaVersion,recordType,content.company,content.date,content.is_remote,content.role_family
+1.0,JOB,Jamf,2026-08-28T12:43:42+00:00,True,Engineering
+1.0,JOB,Databricks,2026-08-28T12:43:02+00:00,True,Engineering
+1.0,JOB,Masabi,2026-08-28T11:59:06+00:00,True,Engineering
+1.0,JOB,Testlio,2026-08-28T06:25:02+00:00,True,Engineering
+1.0,JOB,NBCUniversal,2026-08-28T05:11:57+00:00,True,Design
+1.0,JOB,Akamai,2026-08-28T05:10:18+00:00,True,Engineering
+1.0,JOB,ElevenLabs,2026-08-28T05:10:11+00:00,True,Engineering
+1.0,JOB,Masabi,2026-08-28T05:10:06+00:00,True,Engineering
+1.0,JOB,OpenAI,2026-08-28T18:05:28.411460+00:00,True,Engineering
+1.0,JOB,Anthropic,2026-08-28T16:05:28.411460+00:00,True,Engineering
+1.0,JOB,Mistral AI,2026-08-28T14:05:28.411460+00:00,True,Engineering
+1.0,JOB,Cohere,2026-08-28T12:05:28.411460+00:00,True,Engineering
+1.0,JOB,Scale AI,2026-08-28T08:05:28.411460+00:00,True,Engineering
+1.0,JOB,Perplexity AI,2026-08-28T06:05:28.411460+00:00,True,Engineering
+1.0,JOB,Midjourney,2026-08-28T04:05:28.411460+00:00,True,Engineering
+1.0,JOB,Groq,2026-08-28T02:05:28.411460+00:00,True,Engineering
