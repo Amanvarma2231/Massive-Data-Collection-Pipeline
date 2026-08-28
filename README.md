@@ -100,7 +100,10 @@ flowchart TD
 * **Strict 24-Hour Freshness Guarantee**: Implements UTC ISO-8601 normalization on relative timestamps (`2 hours ago`, `yesterday`) with sliding window filters: $0 \le (t_{	ext{now}} - t_{	ext{published}}) \le 86,400	ext{ s}$.
 
 ### Phase III: Multi-Tier Resilient LLM Engine
-* **Cascading Fallback Chain**: Tier 1 (Gemini 1.5/2.0 Flash) $ightarrow$ Tier 2 (Groq Llama 3.3 70B) $ightarrow$ Tier 3 (DeepSeek Chat) $ightarrow$ Tier 4 (Deterministic Rule Engine).
+* **Cascading Fallback Chain**: Tier 1 (Gemini 1.5/2.0 Flash) $
+ightarrow$ Tier 2 (Groq Llama 3.3 70B) $
+ightarrow$ Tier 3 (DeepSeek Chat) $
+ightarrow$ Tier 4 (Deterministic Rule Engine).
 * **413 Payload Too Large Elimination**: `ContentChunker` removes DOM boilerplate and applies a **70/30 head-and-tail semantic budget**, capping payloads to $< 10,000$ characters.
 * **429 Rate Limit Mitigation**: Full-jitter exponential backoff algorithm with token-bucket concurrency gating.
 
@@ -197,7 +200,10 @@ After pipeline execution, all outputs are generated in `data/output/`:
 
 | Evaluation Category | Weight | How Our System Exceeds Requirements |
 | :--- | :---: | :--- |
-| **LLM Orchestration** | **25%** | 4-tier cascading fallback (Gemini $ightarrow$ Groq $ightarrow$ DeepSeek $ightarrow$ Rule Engine), 70/30 head-tail token budgeting preventing 413s, exponential backoff with full jitter for 429s. |
+| **LLM Orchestration** | **25%** | 4-tier cascading fallback (Gemini $
+ightarrow$ Groq $
+ightarrow$ DeepSeek $
+ightarrow$ Rule Engine), 70/30 head-tail token budgeting preventing 413s, exponential backoff with full jitter for 429s. |
 | **Data Quality** | **25%** | Zero hallucination (every record maps to a valid real-world URL), strict 24-hr freshness window, live GitHub API star correlation. |
 | **Scale Thinking** | **20%** | Comprehensive architectural roadmap for 500k+ records utilizing Kafka partitioning, Kubernetes worker pods, and Redis Bloom filters. |
 | **Engineering Rigor** | **20%** | 100% test coverage with Pytest, strict Pydantic V2 schemas, async concurrency with `aiohttp`, structured logging, and clean modular code. |
@@ -208,4 +214,4 @@ After pipeline execution, all outputs are generated in `data/output/`:
 ## ?? Contact & Submission
 * **Author**: Aman Varma
 * **GitHub**: [https://github.com/Amanvarma2231/Massive-Data-Collection-Pipeline.git](https://github.com/Amanvarma2231/Massive-Data-Collection-Pipeline.git)
-* **Submission Portal**: [https://forms.gle/8bnrg78Ki4E25RAk8](https://forms.gle/8bnrg78Ki4E25RAk8)
+  
