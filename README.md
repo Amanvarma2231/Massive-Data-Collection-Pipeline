@@ -212,6 +212,8 @@ ightarrow$ Rule Engine), 70/30 head-tail token budgeting preventing 413s, expone
 ---
 
 ## ?? Contact & Submission
-* **Author**: Aman Varma
-* **GitHub**: [https://github.com/Amanvarma2231/Massive-Data-Collection-Pipeline.git](https://github.com/Amanvarma2231/Massive-Data-Collection-Pipeline.git)
+* **Author**: Palak Verma
+* **Mo.N**:  +91 979552926
+* **Email**   palakverma461@gmail.com
+* **GitHub**: [https://github.com/palakverma461-lgtm/Massive-Data-Collection-Pipeline-.git](https://github.com/palakverma461-lgtm/Massive-Data-Collection-Pipeline-.git)
   
